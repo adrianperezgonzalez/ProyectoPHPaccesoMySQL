@@ -1,0 +1,2 @@
+1. Iniciamos Index.php y hacemos click en la opcion de Crear la base de datos sistema solar
+2. La opción de modificar y eliminar planeta no me acaban de funcionar pero creo que el codigo casi es correcto.
